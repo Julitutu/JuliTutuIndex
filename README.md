@@ -1,1 +1,12 @@
-https://raw.githubusercontent.com/Julitutu/JuliTutuIndex/refs/heads/main/JuliTutu.index
+https://raw.githubusercontent.com/AuroraLegacy/elements/master/AuroraLegacy.index
+https://raw.githubusercontent.com/Julitutu/Heliana-s-Guide-to-Monster-Hunting/refs/heads/main/Heliana.index
+https://raw.githubusercontent.com/StrangeMeta/homebrew/main/ryokos-guide-to-the-yokai-realms/ryokos-guide-to-the-yokai-realms.index
+https://raw.githubusercontent.com/duncathan/aurora-elements/main/humblewood.index
+https://raw.githubusercontent.com/FreshRoyal/elements-partnered/master/partnered/grim-hollow-lairs-of-etharis.index
+https://raw.githubusercontent.com/Julitutu/Grim-Hollow/refs/heads/main/Grim-Hollow.index
+https://raw.githubusercontent.com/Julitutu/Dungeons-of-Drakkenheim/refs/heads/main/Drakkenheim.index
+https://raw.githubusercontent.com/Julitutu/DM-Secret-Weapons/refs/heads/main/DM-secret-weapon.index
+https://raw.githubusercontent.com/NotTheTom/dnd-monster-hunter/main/amellwinds-guide-to-monster-hunting.index
+https://raw.githubusercontent.com/aurorabuilder/elements/master/third-party.index
+https://raw.githubusercontent.com/mamawerecat/AuroraCustomContent/main/taldorei-reborn.index
+https://raw.githubusercontent.com/Julitutu/Steinhardt-s-Guide-to-the-Eldritch-Hunt/refs/heads/main/Steinhardts.index
